@@ -24,4 +24,9 @@ The Vocabulary Card Learning App is a comprehensive tool designed to facilitate 
 
 # Program download
 The vocabulary card download link: [https://drive.google.com/drive/folders/1jM2qpy2ltzasCWXojPDYiNAFLHncnAfV?usp=sharing](https://drive.google.com/drive/folders/1jM2qpy2ltzasCWXojPDYiNAFLHncnAfV?usp=sharing)]
-Run the vocabularyCard.exe program. You can use the default vocabulary_test.db vocabulay database by pressing "load" button. Or, you can create your own vocabulary database by pressing the "create" button. To manage/adding new vocabularies to your database, press "edit all" button.
+
+Run the vocabularyCard.exe program.
+
+You can use the default vocabulary_test.db vocabulay database by pressing "load" button. 
+
+Or, you can create your own vocabulary database by pressing the "create" button. To manage/adding new vocabularies to your database, press "edit all" button.
